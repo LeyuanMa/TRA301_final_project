@@ -13,6 +13,9 @@
 - literal_and_fluent_translations.ipynb  
   code for obtaining literal and fluent translation of tweets
 
+- visualizing_results.ipynb
+  code for obtaining visual plots of results
+
 ## results
 - gpt_4o_results/  
   results of the fine-tuned English RoBERTa model on gpt-4o translated tweets (performance metrics and confusion matrices)
